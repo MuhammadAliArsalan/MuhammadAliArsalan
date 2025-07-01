@@ -29,7 +29,17 @@
 
 ---
 
+### 🎯 2025 Learning Goals
+
+- ✅ Build advanced projects using .NET and React
+- 📚 Contribute to open-source projects
+- 📘 Learn Docker, Kubernetes, and CI/CD pipelines
+- 🤖 Begin ML journey (scikit-learn, TensorFlow)
+
+
 ### 🌐 Connect With Me
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-arsalan-26a678223/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aliarslan.se.dev@gmail.com)
