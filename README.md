@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Muhammad Ali Arsalan!
 
-🎓 A passionate Software Engineering student from NED University of Engineering & Technology  
+🎓 A passionate junior Software Engineering student from NED University of Engineering & Technology  
 💻 Currently learning .NET, deepening my expertise in React, and sharpening my problem-solving skills with DSA  
 🌱 Always exploring emerging tech like AI, ML, and Cloud computing  
 📫 Reach me at: **aliarslan.se.dev@gmail.com**
@@ -29,7 +29,7 @@
 
 ---
 
-### 🎯 2025 Learning Goals
+### 🎯 Final Year Learning Goals
 
 - ✅ Build advanced projects using .NET and React  
 - 📚 Contribute to open-source projects  
