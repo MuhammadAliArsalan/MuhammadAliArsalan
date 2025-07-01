@@ -1,12 +1,11 @@
 ## 👋 Hi there, I'm Muhammad Ali Arsalan!
 
 🎓 A passionate Software Engineering student from NED University of Engineering & Technology  
-💻 Currently learning in .NET and deepening my expertise in React while sharpening my problem-solving with DSA
+💻 Currently learning .NET, deepening my expertise in React, and sharpening my problem-solving skills with DSA  
 🌱 Always exploring emerging tech like AI, ML, and Cloud computing  
 📫 Reach me at: **aliarslan.se.dev@gmail.com**
 
 ---
-
 
 ### 🛠 Tech Stack & Tools
 
